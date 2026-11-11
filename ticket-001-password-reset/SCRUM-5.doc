@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#SCRUM-5] Usuario no puede acceder a cuenta corporativa</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://danielborrella86.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [SCRUM-5]&nbsp;<a href="https://danielborrella86.atlassian.net/browse/SCRUM-5">Usuario no puede acceder a cuenta corporativa</a>
+            <span class="subText">
+               Creada: 11/nov/26                   &nbsp;Actualizada: 11/nov/26
+
+                                                    &nbsp;Resuelta: 11/nov/26
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Estado:</b></td>
+        <td width="80%">RESUELTO</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Proyecto:</b></td>
+        <td width="80%"><a href="https://danielborrella86.atlassian.net/secure/BrowseProject.jspa?id=10000">Lab Dani</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versiones afectadas:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versiones corregidas:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Tarea
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridad:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Informador:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:c99bca0b-df27-4aa8-a36d-1bdcc9a71629"
+                id="word_reporter_712020:c99bca0b-df27-4aa8-a36d-1bdcc9a71629"
+                href="https://danielborrella86.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Ac99bca0b-df27-4aa8-a36d-1bdcc9a71629">
+                    Daniel Borrella
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Persona asignada:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:c99bca0b-df27-4aa8-a36d-1bdcc9a71629"
+                id="word_assignee_712020:c99bca0b-df27-4aa8-a36d-1bdcc9a71629"
+                href="https://danielborrella86.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Ac99bca0b-df27-4aa8-a36d-1bdcc9a71629">
+                    Daniel Borrella
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolución:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Listo
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etiquetas:</b>
+        </td>
+        <td id="labels-10004-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            ServiceRequest                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Trabajo restante estimado:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tiempo Trabajado:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimación original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Clasificación:</b></td>
+                <td id="customfield_10019-10004-value" class="value" bgcolor="#ffffff" width="80%">      0|i0000n:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10004-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descripción</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>El usuario informa que no puede iniciar Windows. Indica que ha olvidad la contraseña y necesita acceso urgente para su jornada laboral.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comentarios</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10000"><td bgcolor="#f0f0f0">
+              Comentado por
+                                                    
+                
+        
+            <a class="user-hover" rel="712020:c99bca0b-df27-4aa8-a36d-1bdcc9a71629"
+                id="word_commented_712020:c99bca0b-df27-4aa8-a36d-1bdcc9a71629"
+                href="https://danielborrella86.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Ac99bca0b-df27-4aa8-a36d-1bdcc9a71629">
+                    Daniel Borrella
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">11/nov/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10000"><td bgcolor="#ffffff">
+            <p>1- investigación realizada:</p>
+
+<p>2- contacto con usuario para reunir info.</p>
+
+<p>3- cuenta verificada en AD</p>
+
+<p>4- cuenta no bloqueada</p>
+
+<p>5- usuario confirma que olvidó la contraseña</p>
+        </td></tr>
+                <tr id="comment-header-10001"><td bgcolor="#f0f0f0">
+              Comentado por
+                                                    
+                
+        
+            <a class="user-hover" rel="712020:c99bca0b-df27-4aa8-a36d-1bdcc9a71629"
+                id="word_commented_712020:c99bca0b-df27-4aa8-a36d-1bdcc9a71629"
+                href="https://danielborrella86.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Ac99bca0b-df27-4aa8-a36d-1bdcc9a71629">
+                    Daniel Borrella
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">11/nov/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10001"><td bgcolor="#ffffff">
+            <p>1- Acciones realizadas:</p>
+
+<p>2- Restablecida contraseña</p>
+
+<p>3- se comunica contraseña temporal al usuario</p>
+
+<p>4- se solicita cambio de contraseña en el siguiente inicio de sesión</p>
+        </td></tr>
+                <tr id="comment-header-10002"><td bgcolor="#f0f0f0">
+              Comentado por
+                                                    
+                
+        
+            <a class="user-hover" rel="712020:c99bca0b-df27-4aa8-a36d-1bdcc9a71629"
+                id="word_commented_712020:c99bca0b-df27-4aa8-a36d-1bdcc9a71629"
+                href="https://danielborrella86.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Ac99bca0b-df27-4aa8-a36d-1bdcc9a71629">
+                    Daniel Borrella
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">11/nov/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10002"><td bgcolor="#ffffff">
+            <p>Validación:</p>
+
+<ul>
+	<li>Usuario confirma acceso correcto</li>
+	<li>inicio de sesión realizado con exito</li>
+</ul>
+
+        </td></tr>
+            </table>
+Generado a las Wed Nov 11 21:09:06 UTC 2026 por Daniel Borrella usando JIRA 1001.0.0-SNAPSHOT#100295-rev:8e29bebf69d92b486d0010d2bd2ba39ddae62c43.
+
+</body>
+</html>
