@@ -1,2 +1,0 @@
-# Helpdesk-lab
-Support IT
